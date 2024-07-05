@@ -9,6 +9,8 @@ sklearn.model_selection
 os
 matplotlib.pyplot
 
+Unzip Project2Data.zip in the same directory
+
 # Run Project2.py file
 
 Command line earguments format "python .\Project2.py dia ./Project2Data.csv"
