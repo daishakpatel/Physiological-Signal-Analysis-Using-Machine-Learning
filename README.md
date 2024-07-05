@@ -1,11 +1,13 @@
 # Pacakges
 
-sys  csv  numpy as np
-sklearn.metrics
-sklearn.ensemble
-sklearn.model_selection
-os
-matplotlib.pyplot
+- sys
+- csv
+- numpy as np
+- sklearn.metrics
+- sklearn.ensemble
+- sklearn.model_selection
+- os
+- matplotlib.pyplot
 
 Unzip Project2Data.zip in the same directory
 
