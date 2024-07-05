@@ -3,8 +3,8 @@
 sys
 csv
 numpy as np
-sklearn.metrics  
-sklearn.ensemble  
+sklearn.metrics
+sklearn.ensemble
 sklearn.model_selection
 os
 matplotlib.pyplot
